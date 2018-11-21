@@ -1,5 +1,5 @@
 # KKF-Unity
-Ensembles de ressources (scripts, assets ...) pour pouvoir suivre, réaliser les #KKF Unity de Make Your game
+Ensembles de ressources (scripts, assets ...) pour pouvoir suivre, réaliser les #KKF Unity de Make Your game : https://makeyourgame.fun
 
 
 - Comment afficher les informations d'un GameObject sélectionné : Dossier Assets/#EventOrizon/#KomenKonFé/clickOnOject
