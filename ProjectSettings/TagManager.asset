@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Storm
   - SafeZone
+  - Boulder
+  - Destructible
   layers:
   - Default
   - TransparentFX
