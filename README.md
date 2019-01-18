@@ -3,3 +3,4 @@ Ensembles de ressources (scripts, assets ...) pour pouvoir suivre, réaliser les
 
 
 - Comment afficher les informations d'un GameObject sélectionné : Dossier Assets/#EventOrizon/#KomenKonFé/clickOnOject
+- Comment créer des flammes qui illuminent la scène : Dossier Assets/#EventOrizon/#KomenKonFé/oscillantLight
